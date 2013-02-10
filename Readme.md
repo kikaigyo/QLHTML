@@ -18,4 +18,4 @@ code instead of the full HTML preview.
 
 6) Enjoy
 
-<a href="https://github.com/jonasf73/QLHTML" title="jonasf73/QLHTML - GitHub" rel="nofollow" class="under_line">jonasf73/QLHTML - GitHub</a>
+via: <a href="https://github.com/jonasf73/QLHTML" title="jonasf73/QLHTML - GitHub" rel="nofollow" class="under_line">jonasf73/QLHTML - GitHub</a>
