@@ -1,3 +1,4 @@
+#QLHTML 
 Here is a very simple Quick Look generator for HTML files. It renders the HTML
 code instead of the full HTML preview.
 
